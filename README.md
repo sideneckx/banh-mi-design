@@ -1,12 +1,12 @@
 # Design landing page - Bánh mì Duy Chung
 
 ## Mong muốn
-Một cái landing page cho tiệm bánh mì Duy Chung
+Một cái landing page cho tiệm bánh mì Duy Chung trọng tâm vào việc tìm mối đặt bánh mới.
 
 ## Về tiệm bánh mì Duy Chung
 - Là một trong 3 lò bánh mì (không phải xe đẩy bánh mì thịt) lâu đời nhất ở Vũng Tàu
 - Các mối khi đã đặt bánh mì mà bán không hết thì có thể mang bánh mì trả lại và lấy lại tiền
-- Một trong những lò bán giá sàn
+- Một trong những lò bán giá thấp nhất
 - Bán các loại bánh: Bánh mì thường (rỗng ruột), đặc ruột, bánh mì tươi (hơi ngọt ngọt, thường dùng ăn không hoặc chấm sữa), bánh mì xúc xích, bánh mì phô mai, bánh mì nhân dừa (đã có hình)
 - Làm cả 7 ngày 1 tuần (bao gồm cả lễ tết)
 
@@ -17,7 +17,10 @@ Một cái landing page cho tiệm bánh mì Duy Chung
 
 ### Style
 - Điên lên đi em
-- Ưu tiên nền sáng
+- Ưu tiên nền sáng và màu vàng, cam (bánh mì)
 
 ## Về tiền nong
 - Thương thảo :))
+
+## Thời gian
+- Trước tháng 8
