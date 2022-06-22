@@ -17,7 +17,7 @@ Một cái landing page cho tiệm bánh mì Duy Chung trọng tâm vào việc 
 
 ### Style
 - Điên lên đi em
-- Ưu tiên nền sáng và màu vàng, cam (bánh mì)
+- Ưu tiên nền sáng
 
 ## Về tiền nong
 - Thương thảo :))
